@@ -1,0 +1,5 @@
+{
+  "name": "Mermaid Architect",
+  "description": "A sophisticated Mermaid.js diagramming tool with real-time visualization, VS Code-style editor, and AI-powered syntax fixing using Google Gemini.",
+  "requestFramePermissions": []
+}
